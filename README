@@ -2,3 +2,7 @@ This directory contains custom ebuilds made by Jonathan Hunt
 <jhuntnz@users.sourceforge.net>. These ebuilds are for the Gentoo
 Linux (http://www.gentoo.org) Portage tree. To use them checkout
 the portage dir and add it to the PORTDIR_OVERLAY in /etc/make.conf.
+
+To checkout the portage dir follow the instructions at 
+http://sourceforge.net/cvs/?group_id=61715
+The module you need to checkout is portage.
