@@ -1,0 +1,8 @@
+# ChangeLog for ???/khrono
+# Copyright 2002 Jonathan Hunt; Distributed under the GPL v2
+# $Header: /Users/jjh/Downloads/cvs/git/../repos/bif/portage/jhunt-ebuilds/khrono/ChangeLog,v 1.1 2002/11/06 05:09:30 jhuntnz Exp $
+
+* khrono-2.0 (6 November 2002)
+
+  6 November 2002; Jonathan Hunt <jhuntnz@users.sourcforge.net>:
+  Initial import. 
